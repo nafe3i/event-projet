@@ -313,8 +313,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-   
 }
+
+
+
+
 .cent{
     justify-content: center;
     display: flex;
@@ -331,6 +334,16 @@
   width: 400px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   justify-content: center;
+    transition: 0.2ms;   
+}
+.feild:hover{
+    border: 3px solid #d4a574 ;
+    box-shadow:
+    0 0 50px #030202;
+   
+
+
+
 }
 
 
